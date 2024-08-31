@@ -11,15 +11,7 @@ Para o Projeto Simples que a DIO pede, use [DIO - trilha Java básico](https://g
 
 **Os campos em [ ] devem ser alterados pelas informações que forem inseridas pelos usuários.**
 
-
-
-
-
-
-
-
-
-
+-----
 
 Se for criar para um esquema de banco de dados, use a seguinte documentação (fornecida pelo Microsoft Copilot)
 
